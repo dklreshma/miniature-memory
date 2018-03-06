@@ -1,0 +1,110 @@
+html
+<header>
+<h1> IMDB</h1>
+<nav>
+<ul>
+<li> Movies, TV and Showtimes </li>
+<li> Celebes, Events and Photoes </li>
+<li> News and Community </li>
+<li> watch list </li>
+</ul>
+</header>
+/*Header and the navigation bar */
+
+<main>
+<section>
+<article>
+<header>
+<h2>"Mozart in the jungle" stars on what's New in Season 4</h2>
+<p> Gael Garcia Bernal and Lola Kirke talk about the evolution of Hailey and Rodrigo's relationship in Season 4 of "Mozart in the Jungle," available to stream now on Prime Video.
+
+ Mozart in the Jungle (2014)
+ IMDb on the Scene (2015-)IMDb on the Scene (2015-)
+</P>
+<h3> 18 Marvel Cinematic Universe Movies as Ranked by IMDb Users </h3>
+<small>by IMDb-Contributing-Writers | last updated - 21 hours ago</small>
+<p>Now that the Marvel Cinematic Universe (MCU) is well into Phase 3, how do they rate? You may not be surprised by the top-rated and lowest-rated films on this list, but there are definitely some plot twists in the middle rankings. If you don't agree with the results, go forth and rate your favorites higher. (Updated 2/20/2018)
+
+</p>
+>img src="http://www.imdb.com/superheroes/MCU-movies-ranked-by-imdb/ls038472133/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=c8ba59f6-faa5-49a3-88e9-1c7ec7511003&pf_rd_r=0F16MBZEV83NGXBS3QNC&pf_rd_s=center-3&pf_rd_t=15061&pf_rd_i=homepage&ref_=hm_supr_mcu_bo_sm ?img>
+/*image with the source code*/
+
+</article>
+<article>
+<aside>
+<header>
+<h3> Trending this week </h3>
+<nav>
+<ul>
+<li>Game nights         Get Tickets </li>
+<li> annihilitation     Get Tickets </li>
+<li> Everyday           Get tickets </li>
+<li> Operation Red Sea  Get Tickets </li>
+<li> The Chamber         Limited </li>
+</ul>
+</nav>
+<h4> Get Tickets and show times </h4>
+<p> Now playing (box office) </p>
+<nav>
+<ul>
+<li>Black Panther  Get Tickets </li>
+<small> $202.11M </small>
+<li> Peter Rabbit Get Tickets</li>
+<small> $17.5M </small>
+<li> Fifty Shades of Freed Get Tickets </li>
+<small> $17.3M </small>
+</ul>
+</nav>
+</section>
+
+</main>
+
+<aside>
+<header>
+<h3>side bar goes here</h3>
+<ul>
+<li> list 1 </li>
+<li> list 2 </li>
+</ul>
+</aside>
+
+<footer>
+<small> &copy;1990-2018 IMDB.COM,INC </small>
+<contact us> facebook, instagram, twitter </contact us>
+<h1>home <h1>
+<ul>
+<li>top rated movies</li>
+<li> box office</li>
+<li> TV </Li>
+<li> comming soon </li>
+<li> site title </li>
+<li> search </li>
+<li> in theatres </li>
+</ul>
+
+<asides>
+<h4> Contact us </h4>
+<ul>
+<li> Register </li>
+<li> News </li>
+<li> press room </li>
+<li> Advertisement </li>
+<li> jobs </li>
+<ul>
+</aside>
+
+<aside>
+<h5> IMDBPro</h5>
+<ul>
+<li> Box Office Mojo </li>
+<li> Without a box </li>
+<li> conditions of use </li>
+<li> privacy policy </li>
+<li> Interest-Based Ads </li>
+</ul>
+</aside>
+</footer>
+/*Footer of idbm webside along with the list, contact information, also tried to put link for the social media but failed*/
+
+
+
