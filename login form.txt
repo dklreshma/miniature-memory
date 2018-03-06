@@ -1,0 +1,22 @@
+/*login form*/
+</DOCTYPE Html>
+<html>
+<head>
+<title> Sign up </title>
+</head>
+<style>
+
+<div class="form-wrap">
+<form>
+<h1> Sign up </h1>
+<Input type ="text" placeholder="name">
+<input type ="text" placeholder="username">
+<input type ="mnumber" placeholder ="mobile number">
+<input type ="age" placeholder="age">
+<input type ="password" placeholder ="password">
+<input type="password" placeholder ="password">
+<input type="button" value ="sign up">
+</form>
+</div>
+</style>
+</html>
